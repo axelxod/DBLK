@@ -1,0 +1,2 @@
+debian/bin/Digitalblockd usr/bin
+src/Digitalblockd usr/lib/Digitalblock

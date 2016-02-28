@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Digitalblock
+Comment=Digitalblock P2P Cryptocurrency
+Comment[fr]=Digitalblock, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Digitalblock, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Digitalblock-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Digitalblock;
+Categories=Office;
